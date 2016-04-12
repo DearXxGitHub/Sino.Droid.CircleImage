@@ -2,10 +2,10 @@
 <package >
   <metadata>
     <id>$id$</id>
-    <version>1.0.0.0</version>
+    <version>1.0.0.1</version>
     <title>Sino.Droid.CircleImage</title>
-    <authors>y-z-f</authors>
-    <owners>sino</owners>
+    <authors>Xamarin-Cn</authors>
+    <owners>Xamarin-Cn</owners>
     <licenseUrl>http://opensource.org/licenses/GPL-3.0</licenseUrl>
     <projectUrl>https://github.com/Xamarin-Cn/Sino.Droid.CircleImage</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
